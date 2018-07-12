@@ -1,6 +1,9 @@
 # Windows10-Community
 This is a repo for collecting, organizing, and cataloging issues and suggestions for Windows 10. This repo is for the Windows 10 community and a way to organize feedback, separate from the Microsoft curated Feedback Hub 
 
+# Latest Windows Insider Build Information
+https://docs.microsoft.com/en-us/windows-insider/flight-hub/
+
 # Who is running this?
 This repo will be ran by the Windows 10 Community of users and enthusiasts. This is not an official Microsoft project.
 
